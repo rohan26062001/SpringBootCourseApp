@@ -1,0 +1,2 @@
+INSERT INTO COURSE (id, name) VALUES (1, 'Mathematics'), (2, 'Physics'), (3, 'Chemistry'), (4, 'Biology'), (5, 'Computer Science'), (6, 'English Literature'), (7, 'Economics'), (8, 'History'), (9, 'Geography'), (10, 'Environmental Science');
+INSERT INTO STUDENT (id, name) VALUES (1, 'Name1')
